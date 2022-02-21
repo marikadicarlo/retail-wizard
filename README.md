@@ -4,6 +4,7 @@
 ![retail-wizard]()
 
 # Description
+This is the back end for an e-commerce site, Retail Wizard. This application takes a working Express.js API and configures it to use Sequelize to interact with a MySQL database.
 
 ## User Story
 ```
@@ -34,9 +35,9 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Installation
 
-`git clone https://github.com/marikadicarlo/sticky-notes`
+`git clone `
 
-Run `npm install` to install dependencies. To use the application locally, run `node server.js` in your CLI, and then open `http://localhost:3001` in your preferred browswer. 
+Run `npm install` to install dependencies. To use the application locally, run `node server.js` in your CLI.
 
 
 ## Links
