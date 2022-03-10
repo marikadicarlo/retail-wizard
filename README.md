@@ -1,7 +1,6 @@
 # retail-wizard
 
-[Click Here Video]()
-![retail-wizard]()
+[Click Here Videos](https://drive.google.com/drive/folders/1IZDMgrhbS4oWKBEOIASOgr-PEjFQQwjW)
 
 # Description
 This is the back end for an e-commerce site, Retail Wizard. This application takes a working Express.js API and configures it to use Sequelize to interact with a MySQL database.
@@ -41,8 +40,7 @@ Run `npm install` to install dependencies. To use the application locally, run `
 
 
 ## Links
-[Link to the Deployed Site]() <br />
-[Link to the GitHub Repository]()
+[Link to the GitHub Repository](https://github.com/marikadicarlo/retail-wizard)
 
 
 ## Questions
